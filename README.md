@@ -166,7 +166,8 @@ This tests schema integrity, derived features, mathematical KPI accuracy, multi-
 - **Operational Leakage Identified**: ~3.5% of transactions were marked down below cost during quarterly discount clearances, demonstrating the practical need for discount governance.
 
 ---
-
+##LIVE DEMO
+[OPEN LIVE PROJECT] https://sales-performance-analytics-dashboard-2.onrender.com/
 ## 🔮 Future Enhancements
 1. **Predictive Sales Forecasting**: Integrate ARIMA / Prophet / LSTM models to forecast next-quarter revenue.
 2. **Customer Lifetime Value (CLV) & Churn Scoring**: Machine learning models for customer segmentation (RFM analysis).
